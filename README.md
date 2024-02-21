@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>C</title>
-    <ref>"style.css"<ref>  
+    <ref>style.css<ref>  
 </head>
 <body>
     <header>
