@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Curio</title>
-   
+    <title>C</title>
+    <ref>"style.css"<ref>  
 </head>
 <body>
     <header>
