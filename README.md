@@ -38,9 +38,9 @@
         <h2>Clothes</h2>
         <!-- Add your clothes products here -->
         <div class="product">
-            <img src="chimp-8055049.jpg" alt="Clothes 1">
-            <h3>Clothes Name</h3>
-            <p>$Price</p>
+            <img src="chimp-8055049.jpg">
+            <h3>Chimp</h3>
+            <p>$40</p>
             <button>Add to Cart</button>
         </div>
         <!-- Repeat the above structure for each clothing item -->
