@@ -38,7 +38,7 @@
         <h2>Clothes</h2>
         <!-- Add your clothes products here -->
         <div class="product">
-            <img src="![Alt text](chimp-8055049.jpg)" alt="Clothes 1">
+            <img src="chimp-8055049.jpg" alt="Clothes 1">
             <h3>Clothes Name</h3>
             <p>$Price</p>
             <button>Add to Cart</button>
