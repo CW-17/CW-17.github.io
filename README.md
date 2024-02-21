@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Clothing Store</title>
+    <title>Curio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -37,7 +37,7 @@
         <h2>Clothes</h2>
         <!-- Add your clothes products here -->
         <div class="product">
-            <img src="clothes1.jpg" alt="Clothes 1">
+            <img src="chimp-8055049.jpg" alt="Clothes 1">
             <h3>Clothes Name</h3>
             <p>$Price</p>
             <button>Add to Cart</button>
