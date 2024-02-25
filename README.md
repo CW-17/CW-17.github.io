@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>C</title>
-    <link rel="main" href="styles.css">
-
+    <title>Curio - Hat Sales</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <h1>Welcome to Curio!</h1>
-        <h2>Take a look around.</h2>
+        <h2>Discover Your Perfect Hat</h2>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -29,8 +28,8 @@
         <!-- Add your hat products here -->
         <div class="product">
             <img src="hat1.jpg" alt="Hat 1">
-            <h3>Hat Name</h3>
-            <p>$Price</p>
+            <h3>Classic Fedora</h3>
+            <p>$29.99</p>
             <button>Add to Cart</button>
         </div>
         <!-- Repeat the above structure for each hat -->
@@ -39,8 +38,8 @@
         <h2>Clothes</h2>
         <!-- Add your clothes products here -->
         <div class="product">
-            <img src="chimp-8055049.jpg">
-            <h3>Chimp</h3>
+            <img src="chimp-8055049.jpg" alt="Clothes 1">
+            <h3>Stylish Chimp Hat</h3>
             <p>$40</p>
             <button>Add to Cart</button>
         </div>
@@ -48,11 +47,11 @@
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Email: example@example.com</p>
+        <p>Email: info@curio.com</p>
         <p>Phone: 123-456-7890</p>
     </section>
     <footer>
-        <p>&copy; 2024 My Clothing Store</p>
+        <p>&copy; 2024 Curio Hat Sales</p>
     </footer>
     <script src="script.js"></script>
 </body>
